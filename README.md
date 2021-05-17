@@ -54,10 +54,10 @@ Again we have spaces to be printed, this time the no. of spaces are increasing b
 But for the last row, we have all stars to be printed, it can be managed with a simple if condition as shown:
 
        for(int j=0;j<space2;j++){
-					                         	if(i!=4)	 System.out.print("  ");
-					                         	else System.out.print(" *");
-				                   	}
-              space2+=2;
+			        	if(i!=4)  System.out.print("  ");
+					else      System.out.print(" *");
+				}
+             			 space2+=2;
 
 And then we have one more star to be printed in the given pattern.. That can be done by the below statement in the code.
 
