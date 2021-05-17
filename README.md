@@ -1,3 +1,4 @@
+![Screenshot (10)](https://user-images.githubusercontent.com/84003516/118482300-2b70e980-b732-11eb-8d76-746311b5d0e0.png)
 # java Assignment1 Pattern Program.
 
  This is a program to print a star pattern as given below..:
