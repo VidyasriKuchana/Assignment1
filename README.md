@@ -3,9 +3,9 @@
  This is a program to print a star pattern as given below..:
 
  
-           *
-         *   *
-       *       *
-     *           *
-   * * * * * * * * *
+            *
+          *   *
+        *       *
+      *           *
+    * * * * * * * * *
 
